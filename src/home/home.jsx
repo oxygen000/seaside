@@ -23,8 +23,7 @@ a surfboard, and a wave.
       </p>
       </div>
       </div>
-
-</div>
+  </div>
     </div>
     </>
   )
